@@ -14,6 +14,10 @@
 [<img align="left" alt="furkanuysal | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />][linkedin]
 
 <br />
+<br />
+
+[![furkanuysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanuysal)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/frkanuysal
 [youtube]: https://youtube.com/frqn11
