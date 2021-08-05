@@ -20,8 +20,8 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=plastic&label=Visitors)
-
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/furkanuysal/count.svg)
 
 [twitter]: https://twitter.com/frkanuysal
 [youtube]: https://youtube.com/frqn11
