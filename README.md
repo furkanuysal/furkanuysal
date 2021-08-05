@@ -16,7 +16,11 @@
 <br />
 <br />
 
-[![furkanuysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanuysal)](https://github.com/anuraghazra/github-readme-stats)
+![furkanuysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanuysal&theme=radical&show_icons=true)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanuysal&theme=radical)
 
 <br/>
 
