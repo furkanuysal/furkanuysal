@@ -18,6 +18,10 @@
 
 [![furkanuysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanuysal)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=plastic&label=Visitors)
+
 
 [twitter]: https://twitter.com/frkanuysal
 [youtube]: https://youtube.com/frqn11
