@@ -16,11 +16,10 @@
 <br />
 <br />
 
-![furkanuysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanuysal&theme=radical&show_icons=true)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanuysal&theme=radical&show_icons=true" alt="furkanuysal" />
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanuysal&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanuysal&theme=radical" alt="furkanuysalTopLang"/>
 
 <br/>
 
