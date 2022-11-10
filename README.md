@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 4rd grade Computer Engineering student at Yalova Uni.
+- 🌱 4th grade Computer Engineering student at Yalova Uni.
 - ⚡ I’m currently learning and working on Flutter.
 
 ### Connect with me:
