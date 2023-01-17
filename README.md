@@ -27,5 +27,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/furkanuysal/count.svg)
 
 [twitter]: https://twitter.com/frkanuysal
-[youtube]: https://youtube.com/frqn11
+[youtube]: https://youtube.com/@mfurkanuysal
 [linkedin]: https://linkedin.com/in/muhammedfurkanuysal/
