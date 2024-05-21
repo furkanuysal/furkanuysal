@@ -2,11 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/frkanuysal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffrkanuysal&screen_name=frkanuysal)
 
-## I'm a Student and Developer!!
-
-- 🌱 4th grade Computer Engineering student at Yalova Uni.
-- ⚡ I’m currently learning and working on Flutter.
-
 ### Connect with me:
 
 [<img align="left" alt="furkanuysal | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
